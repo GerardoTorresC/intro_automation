@@ -1,0 +1,32 @@
+https://us02web.zoom.us/j/81813969499?pwd=djzpr1vhzgphaghhk0dnbutsyxpozz09
+pagina de omar navarro
+https://github.com/jomarnavarro
+liga para hacer la tarea
+https://evening-bastion-49392.herokuapp.com
+
+
+<label for="title">Title:</label>
+*etiqueta:label
+*text:"Title"
+*atributo: for
+
+<input id="title" name="song[title]" type="text" value="">
+*etiqueta:input
+*text: "title" name="song[title]" type="text"
+*atributo:
+
+<label for="length">Length:</label>
+*etiqueta:label
+*text: "length"
+*atributo:for
+
+<input id="length" name="song[length]" type="number" value="">
+*etiqueta:input
+*text: "title" name="song[title]" type="text"
+*atributo:
+
+
+<input name="name" type="text">
+
+enganche: efectivo $1417.00
+
